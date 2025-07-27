@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Offre vs Demande d'Or</title>
+  <link>https://example.com/or-marche</link>
+  <description>Équilibre offre/demande sur le marché de l'or</description>
+  <item>
+    <title>Demande des banques centrales toujours élevée</title>
+    <link>https://example.com/or-marche/update1</link>
+    <pubDate>Fri, 12 Jul 2025 10:30:00 GMT</pubDate>
+    <description>La demande des banques centrales dépasse les attentes au T2 2025.</description>
+  </item>
+</channel>
+</rss>

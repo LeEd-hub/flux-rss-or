@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Contrats CFA - Or numérique</title>
+  <link>https://example.com/cfa</link>
+  <description>Suivi des actifs numériques russes adossés à l'or</description>
+  <item>
+    <title>Test réussi avec remboursement en or</title>
+    <link>https://example.com/cfa/update1</link>
+    <pubDate>Tue, 16 Jul 2025 11:00:00 GMT</pubDate>
+    <description>Un contrat CFA a été remboursé avec livraison d'or physique en mai 2025.</description>
+  </item>
+</channel>
+</rss>

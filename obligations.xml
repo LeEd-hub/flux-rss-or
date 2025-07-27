@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Crise obligataire</title>
+  <link>https://example.com/obligations</link>
+  <description>Veille sur les taux longs et les spreads souverains</description>
+  <item>
+    <title>Hausse des spreads BTP-Bund</title>
+    <link>https://example.com/obligations/update1</link>
+    <pubDate>Mon, 22 Jul 2025 09:00:00 GMT</pubDate>
+    <description>Les spreads italiens dépassent 220bps - signaux de tension à surveiller.</description>
+  </item>
+</channel>
+</rss>

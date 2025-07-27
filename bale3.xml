@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Bâle III - Or Papier</title>
+  <link>https://example.com/bale3</link>
+  <description>Alertes sur la réforme Bâle III aux USA</description>
+  <item>
+    <title>Texte initial en vigueur depuis juillet 2025</title>
+    <link>https://example.com/bale3/update1</link>
+    <pubDate>Sun, 07 Jul 2025 12:00:00 GMT</pubDate>
+    <description>Le texte initial de la réforme Bâle III est entré en vigueur. Suivi des modifications possibles.</description>
+  </item>
+</channel>
+</rss>

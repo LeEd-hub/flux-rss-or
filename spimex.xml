@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>SPIMEX - Or physique</title>
+  <link>https://example.com/spimex</link>
+  <description>Lancement de la plateforme SPIMEX et volumes échangés</description>
+  <item>
+    <title>Lancement confirmé fin 2025</title>
+    <link>https://example.com/spimex/update1</link>
+    <pubDate>Thu, 25 Jul 2025 14:00:00 GMT</pubDate>
+    <description>Le gouvernement russe confirme que SPIMEX démarrera avant fin 2025.</description>
+  </item>
+</channel>
+</rss>
